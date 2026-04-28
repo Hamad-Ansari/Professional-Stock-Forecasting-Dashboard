@@ -55,4 +55,3 @@ This project combines:
 ```python
 ```
 Professional Stock Forecasting Dashboard<img width="1861" height="1011" alt="Screenshot 2026-04-28 101713" src="https://github.com/user-attachments/assets/d353ded0-693a-4f54-bba8-67aa2de9bf1c" />
-<img width="1861" height="1011" alt="Screenshot 2026-04-28 101713" src="https://github.com/user-attachments/assets/18ff1462-b0b9-4c15-8d79-e38643a469ca" />
